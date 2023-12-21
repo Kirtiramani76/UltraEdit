@@ -67,6 +67,7 @@ button {
 .end h3 {
     color: white;
     display: flex;
+    margin-left:12px;
 }
 
 .end {
@@ -130,5 +131,5 @@ button {
     display: grid;
     gap:15px;
     grid-template-columns: 1fr 1fr 1fr;
-    margin-left: 200px;
+    margin-left: 90px;
 }
